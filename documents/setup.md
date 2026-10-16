@@ -56,4 +56,4 @@ To change the app to In production so that the app should not have to be reautho
 
 One possible method for these additional fields on the Branding page is to create a GitHub repo like this one with Privacy.md and Terms.md files. Copy the links from the repo and files into the appropriate fields on the Branding page.
 
-7. Use Windows Task Scheduler to run automatically - https://github.com/hotlanta/Outlook2Gcal/blob/main/task_scheduler.md
+7. Use Windows Task Scheduler to run automatically - https://github.com/hotlanta/Outlook2Gcal/blob/main/documents/task_scheduler.md
